@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-askmaps
 Version:	0.1
-Release:	3
+Release:	4
 Summary:	Typeset American style Karnaugh maps
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/askmaps

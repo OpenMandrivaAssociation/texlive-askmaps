@@ -1,6 +1,6 @@
 Name:		texlive-askmaps
 Version:	56730
-Release:	1
+Release:	2
 Summary:	Typeset American style Karnaugh maps
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/askmaps
